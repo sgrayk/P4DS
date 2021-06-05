@@ -5,5 +5,5 @@
 ## Thành viên
 | Mã số sinh viên | Học và tên              | Trưởng nhóm |
 |:---------------:|:------------------------|:-----------:|
-|18120225         | Trần Thanh Phúc         |- [ ]        |
-|18120221         | Nguyễn Điền Thanh Phong |- [ ]        |
+|18120225         | Trần Thanh Phúc         |&#10004;     |
+|18120221         | Nguyễn Điền Thanh Phong |             |
