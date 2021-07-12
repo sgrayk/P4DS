@@ -4,7 +4,7 @@
 2. [Dữ liệu](#Dữ-liệu)
 
 ## Thành viên
-| Mã số sinh viên | Học và tên                                           | Trưởng nhóm |
+| Mã số sinh viên | Họ và tên                                            | Trưởng nhóm |
 |:---------------:|:-----------------------------------------------------|:-----------:|
 |18120225         | [Trần Thanh Phúc](https://github.com/PhucThanh)      |&#10004;     |
 |18120221         | [Nguyễn Điền Thanh Phong](https://github.com/sgrayk) |             |
